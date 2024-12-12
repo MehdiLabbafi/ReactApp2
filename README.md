@@ -1,7 +1,7 @@
 # Assignment 2
 # Conservation Area Reservation System (Class-Based Components)
 
-This is a React-based reservation system for booking 3-hour time slots at one of four regional conservation areas. This version of the application is built using **class-based components** as part of learning the fundamentals of React's class-based architecture.
+This is a React-based reservation system for booking 3-hour time slots at one of four regional conservation areas. This version of the application is built using class-based components as part of learning the fundamentals of React's
 
 ## Features
 
@@ -47,9 +47,7 @@ Methods like handleAreaChange, handleTimeChange, and handleSubmit are bound to t
 Page navigation is implemented using react-router-dom. Ensure this library is installed.
 
 
-# Conservation Area Reservation System (Class-Based Components)
 
-This is a React-based reservation system for booking 3-hour time slots at one of four regional conservation areas. This version of the application is built using **class-based components** as part of learning the fundamentals of React's
 
 ### Dependencies
 
