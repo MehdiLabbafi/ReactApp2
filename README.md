@@ -32,28 +32,6 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/conservation-reservation-system.git
    cd conservation-reservation-system
 
-2.	Install dependencies:
-npm install
-
-3.	Important:
-Make sure React Router DOM is installed for routing functionality:
-npm install react-router-dom
-
-4.	Start the development server:
-npm start
-
- Project Structure
- src/
-├── pages/
-│   ├── HomePage.js
-│   ├── ReservationPage.js
-│   ├── ConfirmationPage.js
-│   ├── HomePage.css
-│   ├── ReservationPage.css
-│   └── ConfirmationPage.css
-├── App.js
-├── index.js
-└── styles/
 
 Technical Details
 	•	React Class-Based Components:
