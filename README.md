@@ -36,10 +36,13 @@ Ensure you have the following installed:
 Technical Details
 	•	React Class-Based Components:
 All components are implemented as class-based components using extends React.Component.
+
 	•	State Management:
 The component state is managed using this.state and updated with this.setState.
+
 	•	Event Handling:
 Methods like handleAreaChange, handleTimeChange, and handleSubmit are bound to the component context.
+
 	•	Routing:
 Page navigation is implemented using react-router-dom. Ensure this library is installed.
 
